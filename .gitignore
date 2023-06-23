@@ -19,6 +19,10 @@ build/
 *.iml
 *.ipr
 out/
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
 
 ### NetBeans ###
 /nbproject/private/
